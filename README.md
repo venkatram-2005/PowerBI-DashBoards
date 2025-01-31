@@ -30,7 +30,7 @@ Each folder contains Power BI dashboards focused on a specific industry or analy
 ## 📌 How to Use  
 
 ### ✅ Prerequisites  
-- Install [Power BI Desktop](https://powerbi.microsoft.com/) to view and edit the `.pbix` files.  
+- Install Power BI Desktop to view and edit the `.pbix` files.  
 
 ### 🛠️ Steps to Get Started  
 1. **Clone the repository**:  
